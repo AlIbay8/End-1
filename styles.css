@@ -1,0 +1,22 @@
+body {
+    background-image: url("https://i.imgur.com/wkjbzYZ.png");
+    text-align: center;
+}
+
+h1, .kill {
+    display: none;
+}
+
+h1 {
+    font-family: Unlock;
+    text-shadow: 0px 0px 40px red;
+    color: white;
+}
+
+.button {
+    margin: 30px;
+}
+
+.break {
+    margin-top: 500px;
+}
